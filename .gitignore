@@ -1,5 +1,12 @@
-# IDE
+# Eclipse
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA
 .idea
+
+# NetBeans
 nbproject
 
 # Windows image file caches
